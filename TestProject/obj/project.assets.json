@@ -1025,11 +1025,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niko1\\Documents\\Programming\\testingthings\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\niko1\\Documents\\Programming\\DevOpsHandsOn03\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\niko1\\Documents\\Programming\\testingthings\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\niko1\\Documents\\Programming\\DevOpsHandsOn03\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\niko1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niko1\\Documents\\Programming\\testingthings\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\niko1\\Documents\\Programming\\DevOpsHandsOn03\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1050,8 +1050,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\niko1\\Documents\\Programming\\testingthings\\testingthings\\testingthings.csproj": {
-              "projectPath": "C:\\Users\\niko1\\Documents\\Programming\\testingthings\\testingthings\\testingthings.csproj"
+            "C:\\Users\\niko1\\Documents\\Programming\\DevOpsHandsOn03\\testingthings\\testingthings.csproj": {
+              "projectPath": "C:\\Users\\niko1\\Documents\\Programming\\DevOpsHandsOn03\\testingthings\\testingthings.csproj"
             }
           }
         }

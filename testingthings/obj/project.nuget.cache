@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bhj1l4r2/pg=",
+  "dgSpecHash": "ZpmPExzQ2HU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\niko1\\Documents\\Programming\\testingthings\\testingthings\\testingthings.csproj",
+  "projectFilePath": "C:\\Users\\niko1\\Documents\\Programming\\DevOpsHandsOn03\\testingthings\\testingthings.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niko1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],

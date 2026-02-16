@@ -16,7 +16,7 @@ namespace TestProject
             carCollectionService.AddRandomCar(amount);
             var cars = carCollectionService.GetCars();
             // Assert
-            Assert.Equal(amount, 3);
+            Assert.Equal(amount, cars.Count);
         }
     }
 }
