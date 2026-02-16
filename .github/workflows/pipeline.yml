@@ -5,5 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run tests
-        run: dotnet test
-
+        run: dotnet test --configuration Release --no-build --verbosity normal
