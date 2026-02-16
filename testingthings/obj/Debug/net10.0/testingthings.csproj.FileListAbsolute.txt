@@ -1,0 +1,14 @@
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\bin\Debug\net10.0\testingthings.exe
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\bin\Debug\net10.0\testingthings.deps.json
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\bin\Debug\net10.0\testingthings.runtimeconfig.json
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\bin\Debug\net10.0\testingthings.dll
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\bin\Debug\net10.0\testingthings.pdb
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.AssemblyInfoInputs.cache
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.AssemblyInfo.cs
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.csproj.CoreCompileInputs.cache
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.dll
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\refint\testingthings.dll
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.pdb
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\testingthings.genruntimeconfig.cache
+C:\Users\niko1\Documents\Programming\testingthings\testingthings\obj\Debug\net10.0\ref\testingthings.dll
