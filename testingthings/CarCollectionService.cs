@@ -30,5 +30,5 @@ namespace DevOpsHandsOn03
         {
             return carCollection.GetCars();
         }
-}
+    }
 }
